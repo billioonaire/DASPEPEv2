@@ -1,0 +1,45 @@
+{
+    "holder": {
+      "cost": "0.0069",
+      "whitelist": [
+        "0xdbe4f6a83dc9572952a36cac8e7b142ff0ff7693",
+        "0x1c6d01fa2cd66e0847ad1696415c16017a73c63d",
+        "0x65aa9d769edbcc170aced9dceed464f19ed755a7",
+        "0x0d9970d4d46d22e84a5ef7e9f63bed455a4a5319",
+        "0xd37bef24bf1c0e634f7d639ce2da13edd55ce87d",
+        "0x08B92ea563161c8c870cC06d962dF0EccFE64021",
+        "0xbeD2a8011872C015FB8f5BE8872B7AC59fB76022",
+        "0x293081cbc92225845f40906f6d7ad147ba4e2b55",
+        "0x5c7263410f4959cbf62a7a9b91faca38ddf1550c",
+        "0x8b0931ce80bcFE8C288e3CE34Bd16eBA054CbCeC",
+        "0xae5966cf8cd369a0162ad2eb7325bcd0e488a681",
+        "0xc0a829778d62d0afe4ed1bd90fd390ad75d50cd7",
+        "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+        "0x4A8EC37502F64acE12FC2A5a2B18DbcC87127a7e",
+        "0xc001497d8e0a5f72dd1e6f0ade8b1a16b4f7d080"
+      ]
+    },
+    "whitelist": {
+      "cost": "0.0069",
+      "whitelist": [
+        "0xdbe4f6a83dc9572952a36cac8e7b142ff0ff7693",
+        "0x1c6d01fa2cd66e0847ad1696415c16017a73c63d",
+        "0x65aa9d769edbcc170aced9dceed464f19ed755a7",
+        "0x0d9970d4d46d22e84a5ef7e9f63bed455a4a5319",
+        "0xd37bef24bf1c0e634f7d639ce2da13edd55ce87d",
+        "0x08B92ea563161c8c870cC06d962dF0EccFE64021",
+        "0xbeD2a8011872C015FB8f5BE8872B7AC59fB76022",
+        "0x293081cbc92225845f40906f6d7ad147ba4e2b55",
+        "0x5c7263410f4959cbf62a7a9b91faca38ddf1550c",
+        "0x8b0931ce80bcFE8C288e3CE34Bd16eBA054CbCeC",
+        "0xae5966cf8cd369a0162ad2eb7325bcd0e488a681",
+        "0xc0a829778d62d0afe4ed1bd90fd390ad75d50cd7",
+        "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+        "0x4A8EC37502F64acE12FC2A5a2B18DbcC87127a7e",
+        "0xc001497d8e0a5f72dd1e6f0ade8b1a16b4f7d080"
+      ]
+    },
+    "public": {
+      "cost": "0.01"
+    }
+  }
